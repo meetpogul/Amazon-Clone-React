@@ -1,7 +1,5 @@
 Vist Online https://clone-80380.web.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2647a2a-717f-4c13-a06d-bbc7c21dbf9e/deploy-status)](https://app.netlify.com/sites/hardcore-euler-bb7e5f/deploys)
-
 # Guide
 Add
 Firebase Api Key to src->axios.js<br />
