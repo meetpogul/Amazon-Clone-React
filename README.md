@@ -1,4 +1,4 @@
-Vist Onlie https://clone-80380.web.app/
+Vist Online https://clone-80380.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
