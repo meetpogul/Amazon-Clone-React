@@ -5,6 +5,7 @@ Add
 Firebase Api Key to src->axios.js<br />
 Stripe Public Key to src->App.js<br />
 Stripe Secret Key to functions->index.js<br />
+Add Firebase Config Details src->firebase.js
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
