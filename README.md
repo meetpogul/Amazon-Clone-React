@@ -1,5 +1,12 @@
 Vist Online https://clone-80380.web.app/
 
+# Guide
+Add
+Firebase Api Key to src->axios.js
+Stripe Public Key to src->App.js
+Stripe Secret Key to functions->index.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
